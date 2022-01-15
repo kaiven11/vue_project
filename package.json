@@ -15,7 +15,7 @@
     "github-markdown-css": "^3.0.1",
     "iview": "^3.5.3",
     "markdown-toc": "^1.2.0",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "serve": "^11.2.0",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "vue": "^2.6.10",
